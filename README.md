@@ -2,10 +2,10 @@
  GoIt: zadanie domowe 7
 
 Link do repozytorium:
-https://github.com/KonradKinok/goit-markup-hw-07
+https://github.com/KonradKinok/goit-js-hw-06
 
 Link do strony:
-https://konradkinok.github.io/goit-markup-hw-07/
+https://konradkinok.github.io/goit-js-hw-06/
 
 
 
@@ -13,11 +13,6 @@ https://konradkinok.github.io/goit-markup-hw-07/
 
 
 
-
-
-
-**Read in other languages: [Русский](README.md), [Українська](README.ua.md),
-[English](README.en.md), [Español](README.es.md), [Polski](README.pl.md).**
 
 # Kryteria przyjęcia
 
