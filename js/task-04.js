@@ -1,9 +1,13 @@
 "use strict";
+let counterValue = 0;
+const buttons = document.querySelector("div#counter");
+const spanValue = document.querySelector("span#value");
 
-const button = document.querySelectorAll("button");
-
-button.addEventListener("click", () => {
-  console.log("Button was clicked");
+buttons.addEventListener("click", (event) => {
+  if (event.target.dataset.action === "decrement") {
+    counterValue--;
+  } else if (event.target.dataset.action === "increment") {
+    counterValue++;
+  }
+  spanValue.textContent = counterValue;
 });
-const titleEl = document.querySelector(".article-title");
-titleEl.textContent = "Welcome to Bahamas!";
